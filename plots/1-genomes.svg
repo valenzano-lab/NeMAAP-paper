@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-12-13T20:47:22.556779</dc:date>
+    <dc:date>2022-12-13T20:59:06.070358</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -37,8 +37,8 @@ L 20.878125 7.2
 z
 " style="fill:#ffffff;"/>
    </g>
-   <g clip-path="url(#p3ad2468a89)">
-    <image height="109" id="imagef077224cef" transform="scale(1 -1)translate(0 -109)" width="109" x="20.878125" xlink:href="data:image/png;base64,
+   <g clip-path="url(#p19403ca019)">
+    <image height="109" id="imagef490ee5287" transform="scale(1 -1)translate(0 -109)" width="109" x="20.878125" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAAAG0AAABtCAYAAACr+O9WAAAE9UlEQVR4nO2dXZLjIAyEyVYOMfc/XW4x+0TK5YB+W06U6e9pa2MELtMghGBuj8fjd4wxfn5+xhhjPB6PcUb6LfOsZmPisXUueyyPsLuylXlXrb4V/+C1kXLu8x+o3oLsdWhlZ9qWUSW6PiqtIbc5p00iY/WqzK63WewjeqrWzqh9aa6pnvNnWSqtIfxoDXkZHo9oQ1zV8IWwKw1jElrdVUsKCxweG3OXftw5FZqzIf0mOSK7Hutpm+XZSH07mxZ7HkfNApXWkKfSIl9e6qk7OxH72WcQNixq3IW6JFV6mGWotIaUh7Gyi1FUO1D25vtYggSW4HIkGE+lNcS0TpsgtluONqTtDq2+nYKl3o0IIVnahuZcN5XWkNsY43cM3KYlInqSUZxFaRa7Wj1ROxk4pzWGH60hd/QekDZcVbniu/o/nUi4j0priBgwniBCW+jwlbd+L1qQ3FM2AnNEvgyT0izj7hlk3iPKbkaFWiBgVY/FjmeJxIBxY0xK2xHpuZ5sr2y2s7VsNPgbIfLOEy6uG5NSWoTsxqY2B1jmBGle2SkpMw9a2uCBSmsIP1pDIMNjNMfCmkLuGS5X9UWyvLS2WoiECC3vTKU1xBXG8rjMljBWRGFaT7xyR1nD4xSd/39lZ0KlNSQVxpJA5uMfbVnH/urjtau6dhnTnjIrzu9MpTXkRWmeHooO6Vh6X9VmKpKM12uBSmvIi9JQufxnLPn+kVDUztY7Qc7nK3tUWkPuV11qgtxKidqrQtscjszRjIh8GfxoDblLk3+3HMJPoToIQaU15MUROaKFiFDOgHZs6Yo2IOxftfCn0hpiCmNF8iYyISnLlQ7VCvtkqLSGvJya8WQxTTxXUnifOYOcN6Stnx3S6ONJGWA21h/jLo3hntDKGaQiIvVKdpAH5qV6Is8wsedLEa+kmFTMI0cQJ2xQyUbW+ix2qtZtVFpD+NEa4sowzhwVWoFw+dH5j9a8ymhgAXGXCZXWENd9j5ZFtcZq68eTlWXtmZbFr9S+yJHlXRuj5wp2UGkNcd33mLmmYUVVKGpXD+I6CZQt5j3+MVzeY3UYKztHVpa5qm0WqLSGiOkGGTL2EGEtyzOeuSYzf6NzSam0hvCjNUTMe3wXkVR1qcy3QaU1RFxcZybdjCs+bXyi+iNwP434/hTX5KojSJL6tfyV6NFZzX52rkSMHlRaQy6/hc6yLSJ5tJGtmYqtH0vdVfaptIakrqRYgbgGCTHuV3mcnpxGZmORJ6ErKaKe2ZVUHfiPXI+UtXN+lkprCD9aQ1J/fTd7qLCSqiHcEsSuuhuLeY+NKVtcv+tY1Nnmyu5VR50smcaRJQSV1hBT3iNike0J7Xjc4EwbV7a0TVbpt0zQ2pP/T6U15HmoEDX+as9GUgciePLnsx5z9eKdSvsCIN6jJ2RkOTWD9r52beiS/HN+RyqtIfxoDQkNj+hFY8QGwkmp3ttDD+9cXDcmdAADHQS+yiFAhtYi4afj/2XsUmkNeeuNPTvXvmpb5+rQV8SeZTlCpTWkfHFtuawlE0bS1Oq1v6vPsyBHtEUKQlBpDSk7vluF1euq2mqSfvN4hJYRaFeGSmsIxHtEZyVLXp71aqbIdUietmbtaPYldVJpDeFHa0jK5feEnzJ3d0SelXZ+LWQCupl0cIaxvhSXy79zUyOKW9WJDBx7ckRWVIXUEHaotIb8B0JnGS7tf2XRAAAAAElFTkSuQmCC" y="-6.92"/>
    </g>
    <g id="matplotlib.axis_1">
@@ -276,7 +276,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p3ad2468a89">
+  <clipPath id="p19403ca019">
    <rect height="108.72" width="108.72" x="20.878125" y="7.2"/>
   </clipPath>
  </defs>
