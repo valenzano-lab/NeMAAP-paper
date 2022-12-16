@@ -1,3 +1,5 @@
 results
 .ipynb_checkpoints
 ignore
+assets/ext3/**
+.DS_Store
